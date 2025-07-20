@@ -3,7 +3,7 @@
 Grouping customers based on their purchasing behavior and demographics to target marketing strategies effectively.
 
 ## 📌 Project Overview
-This project was part of a learning experience at Celebal Technologies. The main goal was to understand how unsupervised machine learning (KMeans) can help businesses group customers based on their spending patterns and income.
+This project was part of my internship at Celebal Technologies. The main goal was to understand how unsupervised machine learning (KMeans) can help businesses group customers based on their spending patterns and income.
 
 ## 🛠 Tools and Technologies Used
 - Python
